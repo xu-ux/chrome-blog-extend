@@ -1,6 +1,6 @@
 (function() {
 
-    $("pre").css("user-select", "all");
+    $("pre").css("user-select", "text");
     $("code").css("user-select", "auto");
     $("#google-center-div").hide();
     $(".adsbygoogle").remove();
